@@ -26,6 +26,10 @@ A few industries I worked in:
 - People and Car Access Systems
 - Boat Building & Maritime Prototyping
 - Industrial Automation
+  
+---
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Crim5on&layout=compact&theme=dark)  
 
 ---
 
@@ -36,10 +40,6 @@ I'm always looking to expand my knowledge! Currently, I'm focusing on:
 - Mastering **Python**, **Linux**, and **Clean Coding**.
 - Improving my skills in **Documentation and Presentation**.
 - Exploring **Personal Development** and **Music**.  
-
----
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Crim5on&layout=compact&theme=dark)  
 
 ---
 
