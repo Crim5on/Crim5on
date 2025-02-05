@@ -2,6 +2,8 @@
 
 Welcome to my GitHub profile! I'm passionate about building things that interact with the physical world. Whether it's coding, concept development or field testing. I love the endless possibilities that technology offers.  
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Crim5on&layout=compact&theme=dark)  
+
 ---
 
 ## 🛠️ Technologies & Tools  
@@ -29,17 +31,13 @@ A few industries I worked in:
   
 ---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Crim5on&layout=compact&theme=dark)  
-
----
-
 ## 🌱 Learning Goals  
 
 I'm always looking to expand my knowledge! Currently, I'm focusing on:  
 
 - Mastering **Python**, **Linux**, and **Clean Coding**.
 - Improving my skills in **Documentation and Presentation**.
-- Exploring **Personal Development** and **Music**.  
+- Exploring **Personal Development**.  
 
 ---
 
@@ -55,10 +53,8 @@ I'm always open to collaborating on interesting projects or discussing ideas. Fe
 
 ## 💡 Fun Fact  
 
-When I'm not coding, you can find me playing video games, working out in the gym, or visiting metal gigs.  
+When I'm not coding you can find me working out in the gym, playing video games or visiting metal gigs.  
 
 ---
 
 Thanks for stopping by! 😄  
-
----
