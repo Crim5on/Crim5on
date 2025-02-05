@@ -55,7 +55,7 @@ I'm always open to collaborating on interesting projects or discussing ideas. Fe
 
 ## 💡 Fun Fact  
 
-When I'm not coding you can find me working out in the gym, playing video games or visiting metal gigs.  
+You can see me screaming in this [metal music video on YouTube](https://youtu.be/fbmFe2j000E?si=hdNm5XuW5Ql54QuH) 🔥🤘
 
 ---
 
