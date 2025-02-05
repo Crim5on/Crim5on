@@ -2,6 +2,8 @@
 
 Welcome to my GitHub profile! I'm passionate about building things that interact with the physical world. Whether it's coding, concept development or field testing. I love the endless possibilities that technology offers.  
 
+---
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Crim5on&layout=compact&theme=dark)  
 
 ---
