@@ -55,7 +55,7 @@ I'm always open to collaborating on interesting projects or discussing ideas. Fe
 
 ## 💡 Fun Fact  
 
-You can see me screaming in this [metal music video on YouTube](https://youtu.be/fbmFe2j000E?si=hdNm5XuW5Ql54QuH) 🔥🤘
+You can see me screaming in this [metal music video on YouTube](https://youtu.be/fbmFe2j000E?si=hdNm5XuW5Ql54QuH) 🤘
 
 ---
 
