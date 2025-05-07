@@ -33,29 +33,9 @@ A few industries I worked in:
   
 ---
 
-## 🌱 Learning Goals  
-
-I'm always looking to expand my knowledge! Currently, I'm focusing on:  
-
-- Mastering **Python**, **Linux**, and **Clean Coding**.
-- Improving my skills in **Documentation and Presentation**.
-- Exploring **Personal Development**.  
-
----
-
-## 📫 Let's Connect!  
-
-I'm always open to collaborating on interesting projects or discussing ideas. Feel free to reach out:  
-
-- **GitHub**: [Crim5on](https://github.com/Crim5on)  
-- **GitLab**: [Crim5on](https://gitlab.com/Crim5on) 
-- **LinkedIn**: [Sandro Schnetzer](https://www.linkedin.com/in/sandroschnetzer/)  
-
----
-
 ## 💡 Fun Fact  
 
-You can see me screaming in this metal music video on [YouTube](https://youtu.be/fbmFe2j000E?si=hdNm5XuW5Ql54QuH) 🤘
+You can see me performing in this music video on [YouTube](https://youtu.be/fbmFe2j000E?si=hdNm5XuW5Ql54QuH) 🤘
 
 ---
 
